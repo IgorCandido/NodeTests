@@ -25,10 +25,12 @@ var static_directory = new node_static.Server(__dirname);
 var server = http.createServer();
 
 server.addListener('request', function(req, res){
+	debugger;
 	static_directory.serve(req, res);
 });
 
 server.addListener('upgrade', function(req, res){
+	debugger;
 	res.end();
 });
 
