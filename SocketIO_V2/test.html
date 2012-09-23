@@ -1,0 +1,43 @@
+<head>
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
+	<script>
+	  var socket = io.connect('http://192.168.1.77/');
+	  socket.on('welcome', function (data) {
+	    console.log(data);
+
+	    $("#wcTex").text(data.msg);	    
+	  });
+	  socket.on('result', function(data)
+	  {
+	  	$("#modded").text(data.result);
+	  })
+	</script>
+	<script>
+		function Lower()
+		{
+			socket.emit("toLower", {msg : $("#original").val()});
+		}
+
+		function Upper()
+		{
+			socket.emit("toUpper", {msg : $("#original").val()});
+		}
+	</script>
+</head>
+<body>
+
+<div>
+	<div>Welcome Text</div>
+	<p id="wcTex"> </p>
+</div>
+
+<div>
+
+<div>
+	<input id="original" type="text"/>
+	<p id="modded"/>
+</div>
+<button type="button" onclick="Lower()">ToLower</input>
+<button type="button" onclick="Upper()">ToUpper</input>
+</body>
