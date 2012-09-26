@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="1EBE4A50-6DBE-4D4B-BC69-FD7E7F650E97" ModuleId="Async" />
+  <Module PersistentId="418634B2-8D66-42DB-9FCC-800639EC4540" ModuleId="BookSleeve" />
+  <Module PersistentId="41DB4CF7-55E0-41E6-B278-3A3B141DDD47" ModuleId="Tests" />
+</Modules>

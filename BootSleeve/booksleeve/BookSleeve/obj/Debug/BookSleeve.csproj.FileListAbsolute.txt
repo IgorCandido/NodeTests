@@ -1,0 +1,5 @@
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\BookSleeve\bin\Debug\license.txt
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\BookSleeve\bin\Debug\BookSleeve.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\BookSleeve\bin\Debug\BookSleeve.pdb
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\BookSleeve\obj\Debug\BookSleeve.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\BookSleeve\obj\Debug\BookSleeve.pdb

@@ -1,0 +1,13 @@
+syntax: glob
+BookSleeve/bin/
+BookSleeve/obj/
+Tests/bin/
+Tests/obj/
+*.suo
+Async/bin/
+Async/obj/
+*.user
+*.nupkg
+packages/NuGet.CommandLine.*
+BookSleeve.sln.docstates
+_ReSharper.*

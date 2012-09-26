@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>BookSleeve</id>
+    <version>1.1.0.8</version>
+    <authors>Marc Gravell</authors>
+    <owners>Marc Gravell</owners>
+    <description>Fully asynchronous Redis client, capable of pipelined operations; this acts as a multiplexer, allowing high-performance parallel usage of a single connection (or few connections) without being blocked on each separate request. All core redis opeations are supported. This library can also be used from C# 5.0/async very effectively.</description>
+    <projectUrl>http://code.google.com/p/booksleeve/</projectUrl>
+    <licenseUrl>http://booksleeve.googlecode.com/hg/license.txt</licenseUrl>
+    <tags>Async Redis NoSQL Client Distributed Cache PubSub Messaging</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+    <file src="BookSleeve\bin\Release\*.*" target="lib" />
+  </files>
+</package>

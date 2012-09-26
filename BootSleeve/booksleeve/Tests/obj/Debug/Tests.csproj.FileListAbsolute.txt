@@ -1,0 +1,12 @@
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\license.txt
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\Tests.exe
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\Tests.pdb
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\BookSleeve.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\nunit.mocks.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\pnunit.framework.dll
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\BookSleeve.pdb
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\obj\Debug\Tests.exe
+C:\Users\Igor\Documents\GitHub\NodeTests\BootSleeve\booksleeve\Tests\obj\Debug\Tests.pdb
